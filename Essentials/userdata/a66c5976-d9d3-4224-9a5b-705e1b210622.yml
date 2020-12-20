@@ -1,0 +1,45 @@
+lastAccountName: King_Coding
+timestamps:
+  login: 1608422353521
+  logout: 1608424381175
+  jail: 0
+  lastteleport: 1608424136969
+ipAddress: 10.1.76.1
+lastlocation:
+  world: world
+  x: 4677.5
+  y: 67.0
+  z: 4884.5
+  yaw: 92.84646
+  pitch: -1.7329652E-8
+logoutlocation:
+  world: world
+  x: 4717.514992419586
+  y: 10.0
+  z: 3250.8263200153065
+  yaw: -15.420013
+  pitch: -0.45867804
+jailed: false
+afk: false
+homes:
+  reg:
+    world: world
+    x: 4770.902391379573
+    y: 63.0
+    z: 4841.699999988079
+    yaw: -155.29388
+    pitch: 46.401875
+  main:
+    world: world
+    x: 4678.217221539075
+    y: 67.0
+    z: 4888.300866202988
+    yaw: -179.01477
+    pitch: 25.227566
+  village:
+    world: world
+    x: 4419.709359967319
+    y: 71.0
+    z: 4455.312479675537
+    yaw: 177.60559
+    pitch: 19.674076
