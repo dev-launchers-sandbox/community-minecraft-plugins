@@ -1,0 +1,12 @@
+--2020-12-16 16:55:20--  https://ucc6920867a1df220eec44e0fe3a.dl.dropboxusercontent.com/cd/0/get/BFPGGpGlrM_jz0cOaALlDv-A3xxl4rHHSJ9QMC4R8jsYeKfBmsqccIQHRn5eBr_3WcvggW4bqVrVncDaGITI7uVigeXeZ2MQ295u0IA0pXWlT8pi4yPOksL3qYgeRTDRjuA/file?dl=1
+Resolving ucc6920867a1df220eec44e0fe3a.dl.dropboxusercontent.com (ucc6920867a1df220eec44e0fe3a.dl.dropboxusercontent.com)... 162.125.8.15, 2620:100:601b:15::a27d:80f
+Connecting to ucc6920867a1df220eec44e0fe3a.dl.dropboxusercontent.com (ucc6920867a1df220eec44e0fe3a.dl.dropboxusercontent.com)|162.125.8.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93561 (91K) [application/binary]
+Saving to: 'file?dl=1'
+
+     0K .......... .......... .......... .......... .......... 54% 46.2M 0s
+    50K .......... .......... .......... .......... .         100%  107M=0.001s
+
+2020-12-16 16:55:22 (62.1 MB/s) - 'file?dl=1' saved [93561/93561]
+
