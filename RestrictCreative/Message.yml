@@ -1,0 +1,13 @@
+LoreMessage: '&aItem created in creative by %name%'
+DisabledItems: '&4This is a disabled item!'
+ErrorDropItem: '&4You can`t drop items created in creative mode!'
+ErrorInventoryPut: '&4You can`t transfer items created in creative mode in a inventory!'
+StoneCutter_GrindStone_Restrict: '&4This was made in creative , you can`t access it
+  .'
+WorldEdit_NotFind: '&eYou need to have WE to work.'
+WorldEdit_AreaNotSelected: '&4You need to select an a area to work'
+noPermission: '&4You need permission to use this command'
+Wrong_Arguments: 'Please use : /bulk add|remove'
+Bulk_Marking_Start: '&eThe marking has start , please don`t break/place any block
+  in the selection'
+Bulk_Marking_Finish: The marking has finished , %blocks% blocks changed

@@ -1,0 +1,20 @@
+{
+  "3cb018d0-aa67-4171-98c4-46c87157d1bc": {
+    "level": "grass",
+    "xp": 30,
+    "hunting": {
+      "total": 3,
+      "CREEPER": 1,
+      "ZOMBIE": 1,
+      "SKELETON": 1
+    }
+  },
+  "server-total": {
+    "hunting": {
+      "total": 3,
+      "CREEPER": 1,
+      "ZOMBIE": 1,
+      "SKELETON": 1
+    }
+  }
+}
