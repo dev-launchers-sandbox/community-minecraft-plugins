@@ -9,7 +9,7 @@ defaults:
   interact-name: '{type}'
   chance: 5
 player:
-  chance: 100
+  chance: 5
   display-name: '{player}''s head'
   price: '{default}'
   mask-effects: []

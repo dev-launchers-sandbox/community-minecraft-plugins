@@ -1,20 +1,157 @@
 {
-  "3cb018d0-aa67-4171-98c4-46c87157d1bc": {
+  "c0ef0828-48b9-4338-9d75-a8a0b125fa86": {
     "level": "grass",
-    "xp": 30,
+    "xp": 70,
     "hunting": {
-      "total": 3,
+      "PLAYER": 7,
+      "total": 7
+    }
+  },
+  "b5a67222-dd2b-4b49-9b69-c26acf8d5173": {
+    "level": "grass",
+    "xp": 0
+  },
+  "3f31d642-801d-4789-b2b1-c2f27165fe07": {
+    "level": "dirt",
+    "xp": 470,
+    "hunting": {
+      "MAGMA_CUBE": 1,
+      "SQUID": 2,
+      "SKELETON_HORSE": 2,
+      "PIGLIN": 1,
+      "SPIDER": 1,
+      "SKELETON": 2,
+      "PLAYER": 12,
+      "total": 47,
+      "DOLPHIN": 1,
       "CREEPER": 1,
+      "ZOMBIE": 2,
+      "CHICKEN": 1,
+      "ZOMBIFIED_PIGLIN": 20,
+      "COD": 1
+    }
+  },
+  "c1e1cf21-adb8-406f-8020-dc2eb2828abc": {
+    "level": "grass",
+    "xp": 10,
+    "hunting": {
+      "PLAYER": 1,
+      "total": 1
+    }
+  },
+  "1ca85d27-5d88-411a-a99e-7ac166bb77e5": {
+    "level": "grass",
+    "xp": 150,
+    "hunting": {
+      "PLAYER": 7,
+      "total": 15,
+      "SQUID": 1,
       "ZOMBIE": 1,
+      "CHICKEN": 3,
+      "SPIDER": 2,
+      "PIG": 1
+    }
+  },
+  "6e22e7ae-4eaf-4ee4-945a-13ec1b08caa7": {
+    "level": "grass",
+    "xp": 90,
+    "hunting": {
+      "total": 9,
+      "MAGMA_CUBE": 1,
+      "ZOMBIE": 3,
+      "SALMON": 1,
+      "PIGLIN": 2,
+      "WITCH": 1,
       "SKELETON": 1
     }
   },
+  "3cb018d0-aa67-4171-98c4-46c87157d1bc": {
+    "level": "grass",
+    "xp": 130,
+    "hunting": {
+      "PLAYER": 8,
+      "total": 13,
+      "CREEPER": 1,
+      "ZOMBIE": 3,
+      "SKELETON": 1
+    }
+  },
+  "039d7c00-0f9d-465f-990b-c215245a1758": {
+    "level": "grass",
+    "xp": 20,
+    "hunting": {
+      "total": 2,
+      "CHICKEN": 1,
+      "ZOMBIE": 1
+    }
+  },
+  "6a522181-bc5b-43f6-bc55-f1c524a8ab54": {
+    "level": "grass",
+    "xp": 0
+  },
+  "f01e9f13-ac71-4b0c-9bb4-eade865d9f15": {
+    "level": "grass",
+    "xp": 0
+  },
+  "966918aa-90d9-4c49-836f-f30c951fe642": {
+    "level": "grass",
+    "xp": 190,
+    "hunting": {
+      "PLAYER": 6,
+      "total": 19,
+      "ZOMBIE": 5,
+      "ZOMBIFIED_PIGLIN": 1,
+      "SPIDER": 2,
+      "SKELETON": 5
+    }
+  },
+  "501b2efd-d699-422e-8f22-a514ba4e6925": {
+    "level": "grass",
+    "xp": 160,
+    "hunting": {
+      "DROWNED": 1,
+      "total": 16,
+      "CREEPER": 3,
+      "ZOMBIE": 3,
+      "CHICKEN": 1,
+      "PIGLIN": 1,
+      "SPIDER": 1,
+      "SKELETON": 5,
+      "PIG": 1
+    }
+  },
+  "a66c5976-d9d3-4224-9a5b-705e1b210622": {
+    "level": "grass",
+    "xp": 120,
+    "hunting": {
+      "PLAYER": 12,
+      "total": 12
+    }
+  },
+  "3d125f8f-0907-4a4f-878d-eae3f94e037e": {
+    "level": "grass",
+    "xp": 0
+  },
   "server-total": {
     "hunting": {
-      "total": 3,
-      "CREEPER": 1,
-      "ZOMBIE": 1,
-      "SKELETON": 1
+      "DROWNED": 1,
+      "MAGMA_CUBE": 2,
+      "SQUID": 3,
+      "SKELETON_HORSE": 2,
+      "PIGLIN": 4,
+      "WITCH": 1,
+      "SPIDER": 6,
+      "SKELETON": 14,
+      "PIG": 2,
+      "PLAYER": 53,
+      "total": 141,
+      "CREEPER": 5,
+      "DOLPHIN": 1,
+      "ZOMBIE": 18,
+      "CHICKEN": 6,
+      "SALMON": 1,
+      "ZOMBIFIED_PIGLIN": 21,
+      "COD": 1
     }
   }
 }

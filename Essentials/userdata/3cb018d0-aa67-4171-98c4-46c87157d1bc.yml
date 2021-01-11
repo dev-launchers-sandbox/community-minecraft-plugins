@@ -1,21 +1,22 @@
 lastAccountName: pyxld_kris
 timestamps:
-  login: 1610331617372
-  logout: 1610331994542
-  lastteleport: 1608266491734
-ipAddress: 127.0.0.1
+  login: 1610391252183
+  logout: 1610391160815
+  lastteleport: 1610388453103
+ipAddress: 10.1.76.1
 lastlocation:
-  world: world
-  x: 4763.699999988079
-  y: 64.0
-  z: 4878.300000011921
-  yaw: 298.6482
-  pitch: -3.4500692
+  world: world_nether
+  x: 509.9554114074203
+  y: 50.0
+  z: 597.6633034516188
+  yaw: 266.72107
+  pitch: 19.949945
 logoutlocation:
   world: world
-  x: 4750.11404968158
-  y: 71.0
-  z: 4821.309494430042
-  yaw: -244.95618
-  pitch: 16.34982
+  x: 4261.611825733686
+  y: 81.0
+  z: 5114.033045501326
+  yaw: 178.94029
+  pitch: 24.300253
 afk: false
+nickname: pyxld_kris

@@ -1,25 +1,27 @@
 lastAccountName: seesta
 timestamps:
-  login: 1608355887684
-  logout: 1608356005090
+  login: 1610346876750
+  logout: 1610352147276
   jail: 0
 ipAddress: 10.1.76.1
 logoutlocation:
   world: world
-  x: 4796.8458278469325
-  y: 71.0
-  z: 4825.371571579508
-  yaw: -223.10303
-  pitch: 12.749389
+  x: 4799.406034432206
+  y: 58.0
+  z: 4796.82289029689
+  yaw: -229.03668
+  pitch: 7.349085
 lastlocation:
   world: world
-  x: 9679.111439105904
-  y: 62.073264971569444
-  z: 6707.992728371721
-  yaw: 267.75928
-  pitch: 17.999863
+  x: 4799.699999988079
+  y: 58.0
+  z: 4795.2601939321585
+  yaw: -269.39926
+  pitch: 10.049848
 jailed: false
 mail:
 - §6[§rmarsboy18§6] §rsorry for that, will fix tommoro!
 - §6[§rKing_Coding§6] §rpaulweird
 - §6[§rKing_Coding§6] §rpaulweird
+afk: false
+nickname: AveragePaul

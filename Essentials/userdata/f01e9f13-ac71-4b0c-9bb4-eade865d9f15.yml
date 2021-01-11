@@ -1,12 +1,13 @@
 lastAccountName: D3vast8r
 timestamps:
-  login: 1608259091903
-  logout: 1608259647605
+  login: 1610374187034
+  logout: 1610375104763
 ipAddress: 10.1.76.1
 logoutlocation:
   world: world
-  x: 4954.165545497292
-  y: 67.0
-  z: 4809.5336244664195
-  yaw: -270.59836
-  pitch: 5.5499926
+  x: 4947.511688981704
+  y: 51.0
+  z: 4904.029019478802
+  yaw: -154.91284
+  pitch: 9.900131
+nickname: ATOMIC_BOMBSTER
