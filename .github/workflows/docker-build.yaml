@@ -4,10 +4,10 @@ on:
     branches:
       - main
     # Build image whenever a file under src/ is changed
-    paths:
-      - '!workload/**'
-      - '!.flux.yaml'
-      - '!flux-patch.yaml'
+    paths-ignore:
+      - 'workload/**'
+      - '.flux.yaml'
+      - 'flux-patch.yaml'
 jobs:
   build:
     runs-on: ubuntu-latest
