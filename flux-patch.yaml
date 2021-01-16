@@ -1,0 +1,13 @@
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: community-minecraft
+  namespace: community-minecraft
+spec:
+  template:
+    spec:
+      $setElementOrder/containers:
+      initContainers:
+      - name: update-plugins
+        image: devlaunchers/community-minecraft-plugins:sha-4bf47a2
