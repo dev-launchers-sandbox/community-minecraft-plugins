@@ -7,7 +7,7 @@ metadata:
 spec:
   template:
     spec:
-      $setElementOrder/containers:
+      $setElementOrder/initContainers:
       initContainers:
       - name: update-plugins
         image: devlaunchers/community-minecraft-plugins:sha-74c6b81
