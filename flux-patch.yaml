@@ -10,4 +10,4 @@ spec:
       $setElementOrder/initContainers:
       initContainers:
       - name: update-plugins
-        image: devlaunchers/community-minecraft-plugins:sha-74c6b81
+        image: devlaunchers/community-minecraft-plugins:sha-59aa0e7
