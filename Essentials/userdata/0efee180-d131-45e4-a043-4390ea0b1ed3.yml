@@ -1,0 +1,20 @@
+lastAccountName: Groak
+timestamps:
+  login: 1612405644594
+  logout: 1612406152004
+ipAddress: 10.1.76.1
+logoutlocation:
+  world: world
+  x: 4798.378897200037
+  y: 77.0
+  z: 4811.021484047001
+  yaw: -44.602314
+  pitch: 46.809814
+lastlocation:
+  world: world
+  x: 5069.585947584438
+  y: 69.0
+  z: 4762.704032713821
+  yaw: -359.03436
+  pitch: 86.63196
+money: '50.0'

@@ -1,0 +1,123 @@
+lastAccountName: King_Coding
+timestamps:
+  login: 1612404814033
+  logout: 1612406022306
+  jail: 0
+  lastteleport: 1612405946826
+ipAddress: 10.1.76.1
+lastlocation:
+  world: world
+  x: 4755.8999252451595
+  y: 62.9375
+  z: 4850.467213916811
+  yaw: -299.6582
+  pitch: 14.744453
+logoutlocation:
+  world: world
+  x: 4643.344523851079
+  y: 66.0
+  z: 4888.32963437256
+  yaw: -295.6029
+  pitch: 38.279217
+jailed: false
+afk: false
+homes:
+  reg:
+    world: world
+    x: 4770.902391379573
+    y: 63.0
+    z: 4841.699999988079
+    yaw: -155.29388
+    pitch: 46.401875
+  main:
+    world: world
+    x: 4678.217221539075
+    y: 67.0
+    z: 4888.300866202988
+    yaw: -179.01477
+    pitch: 25.227566
+  village:
+    world: world
+    x: 4419.709359967319
+    y: 71.0
+    z: 4455.312479675537
+    yaw: 177.60559
+    pitch: 19.674076
+  spawn:
+    world: world
+    x: 5006.666464054191
+    y: 67.0
+    z: 5039.982623572645
+    yaw: -15.04781
+    pitch: 27.796455
+  tree:
+    world: world
+    x: 4596.301147298624
+    y: 68.0
+    z: 4832.736915499201
+    yaw: 91.461914
+    pitch: 7.523816
+  trees:
+    world: world
+    x: 4310.020853565086
+    y: 64.0
+    z: 4330.733239072691
+    yaw: 309.179
+    pitch: 4.971426
+  spruce:
+    world: world
+    x: 3855.75563958905
+    y: 70.0
+    z: 4453.968418810569
+    yaw: 177.20496
+    pitch: 11.497551
+  cave:
+    world: world
+    x: 4558.699999988079
+    y: 60.0
+    z: 4734.244884070383
+    yaw: -234.96448
+    pitch: 18.579319
+  mooshroom:
+    world: world
+    x: 4911.053895883537
+    y: 68.0
+    z: 7900.464005993897
+    yaw: 84.655235
+    pitch: 34.94662
+  expedition:
+    world: world
+    x: 5231.452781705348
+    y: 65.0
+    z: 8998.545954669578
+    yaw: 6.9294357
+    pitch: 20.422031
+  darkoak:
+    world: world
+    x: 6125.798332709921
+    y: 63.0
+    z: 11858.732632823243
+    yaw: 342.55212
+    pitch: 22.472622
+  diamonds:
+    world: world
+    x: 5250.218896437167
+    y: 5.0
+    z: 13839.699999988079
+    yaw: -126.93921
+    pitch: 12.729767
+  expedition2:
+    world: world
+    x: 5158.631857025671
+    y: 72.0
+    z: 14069.398068948994
+    yaw: -4.1899686
+    pitch: 35.432785
+  jungle:
+    world: world
+    x: 5311.310114589387
+    y: 63.0
+    z: 14831.736862852746
+    yaw: -320.30603
+    pitch: 9.815533
+money: '0.0'

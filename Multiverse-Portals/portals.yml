@@ -1,0 +1,21 @@
+portals:
+  survival-portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: pyxld_kris
+    location: -256.0,69.0,-45.0:-255.0,71.0,-45.0
+    world: creative-world
+    destination: world
+  creative-portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: pyxld_kris
+    location: 4777.0,63.0,4903.0:4777.0,65.0,4904.0
+    world: world
+    destination: creative-world

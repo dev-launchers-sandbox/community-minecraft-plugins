@@ -1,0 +1,411 @@
+# HeadsPlus by Thatsmusic99 - due to the way Bukkit works, this config can only be reloaded on restart.
+# Instructions for setting up can be found at: https://github.com/Thatsmusic99/HeadsPlus/wiki
+base-item:
+  material: SKELETON_SKULL
+  data: 0
+  price: 10.0
+  display-name: '{type} Head'
+  lore:
+  - '&7Price &8» &c{price}'
+  - '&7Type &8» &c{type}'
+blaze:
+  ingredients:
+  - BLAZE_POWDER
+  head: HP#blaze
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Blaze
+  lore: '{default}'
+  shaped: false
+  sellhead-id: BLAZE
+cavespider:
+  ingredients:
+  - FERMENTED_SPIDER_EYE
+  head: HP#cave_spider
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Cave Spider
+  lore: '{default}'
+  shaped: false
+  sellhead-id: CAVE_SPIDER
+chicken:
+  ingredients:
+  - FEATHER
+  head: HP#chicken
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Chicken
+  lore: '{default}'
+  shaped: false
+  sellhead-id: CHICKEN
+cod:
+  ingredients:
+  - COD
+  head: HP#cod
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Cod
+  lore: '{default}'
+  shaped: false
+  sellhead-id: COD
+cow:
+  ingredients:
+  - LEATHER
+  head: HP#cow
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Cow
+  lore: '{default}'
+  shaped: false
+  sellhead-id: COW
+creeper:
+  ingredients:
+  - GUNPOWDER
+  head: HP#creeper
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Creeper
+  lore: '{default}'
+  shaped: false
+  sellhead-id: CREEPER
+enderman:
+  ingredients:
+  - ENDER_PEARL
+  head: HP#enderman
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Enderman
+  lore: '{default}'
+  shaped: false
+  sellhead-id: ENDERMAN
+ghast:
+  ingredients:
+  - FIRE_CHARGE
+  head: HP#ghast
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Ghast
+  lore: '{default}'
+  shaped: false
+  sellhead-id: GHAST
+guardian:
+  ingredients:
+  - PRISMARINE_SHARD
+  head: HP#guardian
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Guardian
+  lore: '{default}'
+  shaped: false
+  sellhead-id: GUARDIAN
+irongolem:
+  ingredients:
+  - IRON_BLOCK
+  head: HP#iron_golem
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Iron Golem
+  lore: '{default}'
+  shaped: false
+  sellhead-id: IRON_GOLEM
+mushroomcow:
+  ingredients:
+  - RED_MUSHROOM
+  head: HP#red_mooshroom
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Mushroom Cow
+  lore: '{default}'
+  shaped: false
+  sellhead-id: MUSHROOM_COW
+phantom:
+  ingredients:
+  - PHANTOM_MEMBRANE
+  head: HP#phantom
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Phantom
+  lore: '{default}'
+  shaped: false
+  sellhead-id: PHANTOM
+pig:
+  ingredients:
+  - PORKCHOP
+  head: HP#pig
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Pig
+  lore: '{default}'
+  shaped: false
+  sellhead-id: PIG
+pufferfish:
+  ingredients:
+  - PUFFERFISH
+  head: HP#pufferfish
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Pufferfish
+  lore: '{default}'
+  shaped: false
+  sellhead-id: PUFFERFISH
+rabbit:
+  ingredients:
+  - RABBIT_FOOT
+  head: HP#brown_rabbit
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Rabbit
+  lore: '{default}'
+  shaped: false
+  sellhead-id: RABBIT
+sheep:
+  WHITE:
+    head: HP#white_sheep
+    ingredients:
+    - WHITE_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  ORANGE:
+    head: HP#orange_sheep
+    ingredients:
+    - ORANGE_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  MAGENTA:
+    head: HP#magenta_sheep
+    ingredients:
+    - MAGENTA_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  LIGHT_BLUE:
+    head: HP#light_blue_sheep
+    ingredients:
+    - LIGHT_BLUE_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  YELLOW:
+    head: HP#yellow_sheep
+    ingredients:
+    - YELLOW_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  LIME:
+    head: HP#lime_sheep
+    ingredients:
+    - LIME_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  PINK:
+    head: HP#pink_sheep
+    ingredients:
+    - PINK_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  GRAY:
+    head: HP#gray_sheep
+    ingredients:
+    - GRAY_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  LIGHT_GRAY:
+    head: HP#silver_sheep
+    ingredients:
+    - LIGHT_GRAY_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  CYAN:
+    head: HP#cyan_sheep
+    ingredients:
+    - CYAN_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  PURPLE:
+    head: HP#purple_sheep
+    ingredients:
+    - PURPLE_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  BLUE:
+    head: HP#blue_sheep
+    ingredients:
+    - BLUE_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  BROWN:
+    head: HP#brown_sheep
+    ingredients:
+    - BROWN_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  GREEN:
+    head: HP#green_sheep
+    ingredients:
+    - GREEN_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  RED:
+    head: HP#red_sheep
+    ingredients:
+    - RED_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+  BLACK:
+    head: HP#black_sheep
+    ingredients:
+    - BLACK_WOOL
+    price: '{default}'
+    display-name: '{default}'
+    display-type: Sheep
+    lore: '{default}'
+    shaped: false
+    sellhead-id: SHEEP
+shulker:
+  ingredients:
+  - SHULKER_SHELL
+  head: HP#shulker
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Shulker
+  lore: '{default}'
+  shaped: false
+  sellhead-id: SHULKER
+skeleton:
+  ingredients:
+  - BONE
+  head: HP#skeleton
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Skeleton
+  lore: '{default}'
+  shaped: false
+  sellhead-id: SKELETON
+slime:
+  ingredients:
+  - SLIME_BALL
+  head: HP#slime
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Slime
+  lore: '{default}'
+  shaped: false
+  sellhead-id: SLIME
+spider:
+  ingredients:
+  - SPIDER_EYE
+  head: HP#spider
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Spider
+  lore: '{default}'
+  shaped: false
+  sellhead-id: SPIDER
+squid:
+  ingredients:
+  - INK_SAC
+  head: HP#squid
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Squid
+  lore: '{default}'
+  shaped: false
+  sellhead-id: SQUID
+turtle:
+  ingredients:
+  - TURTLE_HELMET
+  head: HP#turtle
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Turtle
+  lore: '{default}'
+  shaped: false
+  sellhead-id: TURTLE
+villager:
+  ingredients:
+  - EMERALD
+  head: HP#villager_plains
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Villager
+  lore: '{default}'
+  shaped: false
+  sellhead-id: VILLAGER
+witch:
+  ingredients:
+  - POTION
+  head: HP#witch
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Witch
+  lore: '{default}'
+  shaped: false
+  sellhead-id: WITCH
+zombie:
+  ingredients:
+  - ROTTEN_FLESH
+  head: HP#zombie
+  price: '{default}'
+  display-name: '{default}'
+  display-type: Zombie
+  lore: '{default}'
+  shaped: false
+  sellhead-id: ZOMBIE

@@ -1,0 +1,28 @@
+lastAccountName: seesta
+timestamps:
+  login: 1612403273736
+  logout: 1612404584330
+  jail: 0
+ipAddress: 10.1.76.1
+logoutlocation:
+  world: world
+  x: 4797.548288321388
+  y: 57.5625
+  z: 4796.184358218063
+  yaw: 120.683044
+  pitch: 4.94941
+lastlocation:
+  world: world
+  x: 4799.699999988079
+  y: 58.0
+  z: 4795.2601939321585
+  yaw: -269.39926
+  pitch: 10.049848
+jailed: false
+mail:
+- §6[§rmarsboy18§6] §rsorry for that, will fix tommoro!
+- §6[§rKing_Coding§6] §rpaulweird
+- §6[§rKing_Coding§6] §rpaulweird
+afk: false
+nickname: Paul
+money: '460.0'

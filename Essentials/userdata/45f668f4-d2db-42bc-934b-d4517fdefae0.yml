@@ -1,0 +1,21 @@
+lastAccountName: Colli_x3
+timestamps:
+  login: 1612405131271
+  jail: 0
+  logout: 1612405315259
+ipAddress: 10.1.76.1
+jailed: false
+lastlocation:
+  world: world
+  x: 4848.567352933768
+  y: 63.0
+  z: 4842.3863727461385
+  yaw: 0.8121155
+  pitch: 3.8392382
+logoutlocation:
+  world: world
+  x: 4837.864665375935
+  y: 63.0
+  z: 4839.371024065272
+  yaw: -270.16132
+  pitch: 14.461581

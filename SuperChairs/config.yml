@@ -1,0 +1,18 @@
+# --------------------- #
+# SuperChairs by kixmc  #
+# --------------------- #
+#
+# chair-blocks: The blocks players can sit down on. For convenience, you can use "stairs" & or "slabs" to select all stair types / slab types.
+# When adding chair blocks, make sure you use the BUKKIT names for them: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+#
+# range: The maximum distance between the chair and the player to be able to sit down (to prevent glitching through walls, etc) default: 2
+#
+# disabled-worlds: Chairs will be disabled in these worlds
+#
+chair-blocks:
+- stairs
+- slabs
+range: 2
+disabled-worlds:
+- exampleDisabledWorldName1
+- exampleDisabledWorldName2

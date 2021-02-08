@@ -1,0 +1,31 @@
+lastAccountName: GuillermoS_
+timestamps:
+  login: 1612757035398
+  logout: 1612757073830
+  lastteleport: 1612454467912
+ipAddress: 10.1.76.1
+afk: false
+homes:
+  home:
+    world: world
+    x: 4956.957147866437
+    y: 54.0
+    z: 4822.309553855422
+    yaw: 17.232054
+    pitch: 35.300224
+lastlocation:
+  world: creative-world
+  x: -258.71212133529025
+  y: 69.0
+  z: -74.19400518989158
+  yaw: 284.07758
+  pitch: 10.875345
+logoutlocation:
+  world: world
+  x: 6735.550946521273
+  y: 68.0
+  z: 4341.520939906998
+  yaw: -41.510624
+  pitch: 58.46404
+money: '212.0'
+nickname: GuillermoS_

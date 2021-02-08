@@ -1,0 +1,22 @@
+lastAccountName: pyxld_kris
+timestamps:
+  login: 1612758852067
+  logout: 1612755390403
+  lastteleport: 1612064902867
+ipAddress: 10.1.76.1
+lastlocation:
+  world: creative-world
+  x: -238.7245163151431
+  y: 69.0
+  z: -73.98320842614939
+  yaw: -234.74939
+  pitch: 42.450275
+logoutlocation:
+  world: world
+  x: 4788.076874082002
+  y: 63.0
+  z: 4902.995006847636
+  yaw: -4.1999607
+  pitch: -0.1500268
+afk: false
+nickname: pyxld_kris
