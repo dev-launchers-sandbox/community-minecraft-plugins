@@ -1,9 +1,8 @@
 # HeadsPlus by Thatsmusic99
 version: 0
 defaults:
-  price: 10.0
+  price: '{default}'
   lore:
-  - '&7Price &8» &c{price}'
   - '&7Type &8» &c{type}'
   display-name: '{type} Head'
   interact-name: '{type}'
@@ -15,7 +14,6 @@ player:
   mask-effects: []
   mask-amplifiers: []
   lore:
-  - '&7Price: &6{price}'
   - '&7Player: &a{player}'
 appleHeadN: Apple
 appleN: MHF_apple

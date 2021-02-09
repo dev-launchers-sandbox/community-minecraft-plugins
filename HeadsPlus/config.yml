@@ -34,7 +34,7 @@ plugin:
     add-as-enabled: true
     section: players
     title: '&8[&6{player}&8]'
-    price: default
+    price: free
   mechanics:
     theme: classic
     plugin-theme-dont-change: classic

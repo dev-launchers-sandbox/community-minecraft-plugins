@@ -1,7 +1,7 @@
 lastAccountName: Vuosmos
 timestamps:
-  login: 1611827416315
-  logout: 1611827585162
+  login: 1612829232086
+  logout: 1612829431007
 ipAddress: 10.1.76.1
 lastlocation:
   world: world
@@ -12,9 +12,9 @@ lastlocation:
   pitch: 24.457354
 logoutlocation:
   world: world
-  x: 4789.499467977491
-  y: 62.9375
-  z: 4844.614451775162
-  yaw: -176.92386
-  pitch: 24.071527
+  x: 3438.2032669748883
+  y: 67.0
+  z: 4623.89406161284
+  yaw: -287.86353
+  pitch: 19.210464
 money: '10.0'

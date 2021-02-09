@@ -1,4 +1,6 @@
-&6Welcome, {PLAYER}&6!
-&6Type &c/help&6 for a list of commands.
-&6Type &c/list&6 to see who else is online.
-&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
+&aWelcome, {PLAYER}&6!
+&aWe're building an open source Minecraft MMO!
+&lHelp us out!
+  &o&eContribute code at &bhttps://github.com/dev-launchers/community-minecraft
+  &o&eContribute art at &bhttps://github.com/dev-launchers/minecraft__pack
+  &o&eSupport our organization at &bhttps://devlaunchers.com/support-us

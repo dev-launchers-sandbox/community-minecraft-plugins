@@ -42,14 +42,14 @@ worlds:
     bedRespawn: 'true'
     worldBlacklist: []
     environment: THE_END
-    seed: '-5714844764306157214'
+    seed: '-4135044457107068207'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
   world:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -143,7 +143,7 @@ worlds:
   creative-world:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: creative-world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -169,7 +169,7 @@ worlds:
     hunger: 'true'
     autoHeal: 'true'
     adjustSpawn: 'true'
-    portalForm: ALL
+    portalForm: NONE
     gameMode: CREATIVE
     keepSpawnInMemory: 'true'
     spawnLocation:
@@ -178,7 +178,7 @@ worlds:
       y: 70.0
       z: -48.0
       pitch: 0.0
-      yaw: 0.0
+      yaw: 315.0
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
