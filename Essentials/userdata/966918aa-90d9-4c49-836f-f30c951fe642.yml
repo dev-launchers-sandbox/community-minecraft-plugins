@@ -1,7 +1,7 @@
 lastAccountName: KomotoseKomo
 timestamps:
-  login: 1612835431229
-  logout: 1612845241418
+  login: 1613688806832
+  logout: 1613709174351
 ipAddress: 10.1.76.1
 lastlocation:
   world: world
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 7.800331
 logoutlocation:
   world: world
-  x: 4255.645661364686
-  y: 61.0
-  z: 5114.123263411191
-  yaw: -358.56006
-  pitch: 18.450045
+  x: -680.8867053088397
+  y: 68.0
+  z: 576.0875344290716
+  yaw: -162.01074
+  pitch: 13.800685

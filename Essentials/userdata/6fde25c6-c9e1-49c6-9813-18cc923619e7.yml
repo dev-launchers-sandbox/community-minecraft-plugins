@@ -1,12 +1,19 @@
 lastAccountName: loier3600
 timestamps:
-  login: 1611956766022
-  logout: 1611959820816
+  login: 1612944625636
+  logout: 1612945240618
 ipAddress: 10.1.76.1
 logoutlocation:
+  world: creative-world
+  x: -237.69632717653045
+  y: 69.625
+  z: -41.579730532035356
+  yaw: 90.15112
+  pitch: 4.3500657
+lastlocation:
   world: world
-  x: 4554.563987926193
-  y: 67.0
-  z: 4997.157151911096
-  yaw: -326.05322
-  pitch: 13.799949
+  x: 4667.705812104766
+  y: 63.0
+  z: 4944.604577644743
+  yaw: -252.70312
+  pitch: 10.799978

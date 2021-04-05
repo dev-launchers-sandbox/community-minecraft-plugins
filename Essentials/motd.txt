@@ -1,6 +1,9 @@
 &aWelcome, {PLAYER}&6!
-&aWe're building an open source Minecraft MMO!
+&aThere's an EGG HUNT event going on now! Type "/tpegg" to join the fun!
+&aWe're building an open source Minecraft MMO Survival Experience!
 &lHelp us out!
   &o&eContribute code at &bhttps://github.com/dev-launchers/community-minecraft
   &o&eContribute art at &bhttps://github.com/dev-launchers/minecraft__pack
   &o&eSupport our organization at &bhttps://devlaunchers.com/support-us
+
+&aThere's an EGG HUNT event going on now! Type "/tpegg" to join the fun!!!

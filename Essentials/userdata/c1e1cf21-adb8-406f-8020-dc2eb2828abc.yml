@@ -1,12 +1,12 @@
 lastAccountName: Quasarium
 timestamps:
-  login: 1612472870460
-  logout: 1612473388763
+  login: 1617487788455
+  logout: 1617489879682
 ipAddress: 10.1.76.1
 logoutlocation:
-  world: world
-  x: 4851.465961858701
-  y: 62.9375
-  z: 4862.472006204744
-  yaw: 273.44434
-  pitch: -1.3504411
+  world: egg-world
+  x: 222.17554003907705
+  y: 11.01775551495583
+  z: -288.26749933117037
+  yaw: -297.95532
+  pitch: 20.249542

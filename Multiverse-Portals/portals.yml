@@ -19,3 +19,23 @@ portals:
     location: 4777.0,63.0,4903.0:4777.0,65.0,4904.0
     world: world
     destination: creative-world
+  event-portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: pyxld_kris
+    location: 4799.0,63.0,4903.0:4799.0,65.0,4904.0
+    world: world
+    destination: event-world
+  survival-portal-from-event-world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: pyxld_kris
+    location: -146.0,70.0,-206.0:-144.0,72.0,-206.0
+    world: event-world
+    destination: world

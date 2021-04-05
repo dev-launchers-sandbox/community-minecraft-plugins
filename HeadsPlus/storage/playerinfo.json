@@ -3,13 +3,22 @@
     "level": "grass",
     "xp": 0
   },
+  "b1e4210c-baa4-42af-a6b0-1cca787b4679": {
+    "level": "grass",
+    "xp": 20,
+    "hunting": {
+      "total": 2,
+      "CHICKEN": 1,
+      "SKELETON": 1
+    }
+  },
   "4cf6c1db-dd07-4a97-9cfe-cac87af74409": {
     "level": "grass",
     "xp": 0
   },
   "3f31d642-801d-4789-b2b1-c2f27165fe07": {
-    "level": "coal",
-    "xp": 1930,
+    "level": "coal_2",
+    "xp": 2160,
     "sellhead": {
       "total": 48,
       "CHICKEN": 1,
@@ -19,59 +28,69 @@
     "hunting": {
       "DROWNED": 6,
       "MAGMA_CUBE": 2,
-      "ZOMBIE_VILLAGER": 2,
+      "ZOMBIE_VILLAGER": 3,
       "SQUID": 2,
       "PHANTOM": 1,
       "HOGLIN": 1,
       "SKELETON_HORSE": 2,
+      "SHEEP": 1,
       "PIGLIN": 1,
       "WANDERING_TRADER": 1,
-      "SPIDER": 6,
+      "SPIDER": 7,
       "FOX": 1,
-      "SKELETON": 10,
-      "PLAYER": 12,
-      "total": 145,
+      "PILLAGER": 1,
+      "SKELETON": 14,
+      "PIG": 1,
+      "PLAYER": 13,
+      "total": 168,
       "DOLPHIN": 1,
       "CREEPER": 4,
-      "ZOMBIE": 18,
-      "CHICKEN": 11,
+      "ZOMBIE": 24,
+      "CHICKEN": 16,
       "TURTLE": 1,
-      "ZOMBIFIED_PIGLIN": 62,
+      "ZOMBIFIED_PIGLIN": 64,
       "COD": 1
     }
   },
   "1ca85d27-5d88-411a-a99e-7ac166bb77e5": {
-    "level": "coal_2",
-    "xp": 2050,
+    "level": "emerald_3",
+    "xp": 68370,
     "hunting": {
-      "MAGMA_CUBE": 1,
+      "ENDERMAN": 50,
+      "MAGMA_CUBE": 21,
       "ZOMBIE_VILLAGER": 1,
-      "HUSK": 4,
-      "VEX": 1,
-      "VINDICATOR": 5,
-      "WITCH": 4,
-      "SPIDER": 4,
-      "PILLAGER": 79,
-      "SKELETON": 6,
-      "WITHER_SKELETON": 4,
-      "total": 205,
-      "CREEPER": 6,
+      "HOGLIN": 6,
+      "HUSK": 5,
+      "VEX": 2,
+      "VINDICATOR": 1939,
+      "WITCH": 793,
+      "SPIDER": 43,
+      "PILLAGER": 3180,
+      "SKELETON": 62,
+      "WITHER_SKELETON": 15,
+      "total": 6801,
+      "CREEPER": 32,
       "CHICKEN": 3,
-      "ZOMBIFIED_PIGLIN": 44,
-      "TRADER_LLAMA": 1,
-      "SLIME": 1,
+      "ZOMBIFIED_PIGLIN": 53,
+      "TRADER_LLAMA": 2,
+      "SLIME": 6,
+      "CAVE_SPIDER": 1,
       "RAVAGER": 1,
+      "SHULKER": 10,
+      "DROWNED": 1,
       "GUARDIAN": 1,
-      "SQUID": 2,
-      "EVOKER": 2,
-      "BLAZE": 1,
-      "PIGLIN": 5,
-      "GHAST": 2,
-      "PIG": 1,
-      "PLAYER": 7,
+      "SQUID": 3,
+      "EVOKER": 254,
+      "PHANTOM": 1,
+      "BLAZE": 19,
+      "PIGLIN": 14,
+      "COW": 1,
+      "GHAST": 3,
+      "PIG": 2,
+      "PLAYER": 8,
       "STRAY": 1,
-      "ZOMBIE": 15,
-      "CAT": 1,
+      "ZOMBIE": 91,
+      "CAT": 2,
       "OCELOT": 1
     }
   },
@@ -97,58 +116,75 @@
     }
   },
   "adf999ab-1d71-4017-b648-5e281b63f1e2": {
-    "level": "coal_2",
-    "xp": 2640,
+    "level": "iron_2",
+    "xp": 3510,
     "hunting": {
-      "ENDERMAN": 4,
-      "PHANTOM": 7,
-      "SHEEP": 1,
+      "ENDERMAN": 6,
+      "MAGMA_CUBE": 3,
+      "PHANTOM": 8,
+      "HOGLIN": 1,
+      "BLAZE": 4,
+      "SHEEP": 2,
       "PIGLIN": 3,
       "COW": 1,
       "GHAST": 2,
-      "SPIDER": 13,
-      "SKELETON": 22,
-      "PIG": 2,
+      "WITCH": 1,
+      "SPIDER": 18,
+      "PILLAGER": 1,
+      "SKELETON": 37,
+      "PIG": 3,
       "STRAY": 1,
-      "total": 264,
-      "CREEPER": 8,
-      "ZOMBIE": 51,
-      "CHICKEN": 6,
-      "CAT": 2,
-      "ZOMBIFIED_PIGLIN": 141
+      "total": 351,
+      "CREEPER": 17,
+      "ZOMBIE": 72,
+      "CHICKEN": 11,
+      "CAT": 3,
+      "ZOMBIFIED_PIGLIN": 150,
+      "WOLF": 1,
+      "SLIME": 6
     }
   },
+  "bb2194ba-acd0-4423-8410-b62c70d63d70": {
+    "level": "grass",
+    "xp": 0
+  },
   "501b2efd-d699-422e-8f22-a514ba4e6925": {
-    "level": "iron",
-    "xp": 3420,
+    "level": "redstone",
+    "xp": 5480,
     "hunting": {
-      "ENDERMAN": 2,
-      "MAGMA_CUBE": 38,
-      "ZOMBIE_VILLAGER": 1,
-      "HOGLIN": 3,
+      "ENDERMAN": 3,
+      "MAGMA_CUBE": 49,
+      "ZOMBIE_VILLAGER": 2,
+      "HOGLIN": 4,
       "LLAMA": 1,
       "HUSK": 1,
-      "SPIDER": 12,
-      "SKELETON": 19,
-      "WITHER_SKELETON": 1,
-      "total": 342,
-      "CREEPER": 7,
+      "VINDICATOR": 2,
+      "WITCH": 1,
+      "SPIDER": 14,
+      "SKELETON": 28,
+      "WITHER_SKELETON": 3,
+      "PIGLIN_BRUTE": 1,
+      "total": 548,
+      "CREEPER": 14,
       "MUSHROOM_COW": 1,
-      "CHICKEN": 15,
-      "TURTLE": 1,
-      "ZOMBIFIED_PIGLIN": 177,
+      "CHICKEN": 33,
+      "TURTLE": 5,
+      "ZOMBIFIED_PIGLIN": 266,
+      "TRADER_LLAMA": 1,
       "SLIME": 1,
-      "DROWNED": 3,
+      "CAVE_SPIDER": 1,
+      "DROWNED": 6,
       "SQUID": 1,
-      "PHANTOM": 3,
+      "PHANTOM": 5,
       "HORSE": 1,
-      "BLAZE": 4,
-      "PIGLIN": 3,
-      "COW": 8,
-      "GHAST": 3,
+      "BLAZE": 11,
+      "PIGLIN": 5,
+      "COW": 12,
+      "GHAST": 5,
       "WANDERING_TRADER": 1,
-      "PIG": 7,
-      "ZOMBIE": 28
+      "PIG": 11,
+      "ZOMBIE": 57,
+      "WOLF": 1
     }
   },
   "78c5ff56-966f-4644-876e-1f202eafe46b": {
@@ -173,16 +209,32 @@
     }
   },
   "7a1f8438-dae5-478f-8b72-c6ea97922a01": {
-    "level": "grass",
-    "xp": 10,
+    "level": "dirt",
+    "xp": 730,
     "hunting": {
-      "total": 1,
-      "ZOMBIE": 1
+      "MAGMA_CUBE": 1,
+      "HUSK": 1,
+      "SHEEP": 1,
+      "COW": 4,
+      "PILLAGER": 1,
+      "SPIDER": 2,
+      "SKELETON": 17,
+      "PIG": 5,
+      "PLAYER": 2,
+      "total": 73,
+      "CREEPER": 6,
+      "ZOMBIE": 18,
+      "CHICKEN": 13,
+      "WOLF": 1
     }
+  },
+  "102aae15-4709-46af-9eea-8480c22f4fb5": {
+    "level": "grass",
+    "xp": 0
   },
   "b1c123e7-4526-4f95-99e5-ee9b6a4d79f6": {
     "level": "redstone",
-    "xp": 4570,
+    "xp": 4770,
     "sellhead": {
       "GUARDIAN": 120,
       "SILVERFISH": 2,
@@ -205,20 +257,23 @@
       "SILVERFISH": 2,
       "SQUID": 1,
       "BLAZE": 1,
-      "SHEEP": 1,
+      "HUSK": 1,
+      "SHEEP": 2,
       "COW": 1,
       "PIGLIN": 3,
       "GHAST": 2,
-      "SPIDER": 2,
+      "SPIDER": 3,
       "PIG": 3,
-      "SKELETON": 3,
-      "PLAYER": 1,
-      "total": 145,
+      "SKELETON": 7,
+      "PLAYER": 3,
+      "total": 165,
       "BAT": 1,
-      "CHICKEN": 6,
-      "ZOMBIE": 40,
-      "ZOMBIFIED_PIGLIN": 71,
-      "WOLF": 2
+      "CHICKEN": 7,
+      "ZOMBIE": 45,
+      "SALMON": 1,
+      "ZOMBIFIED_PIGLIN": 73,
+      "WOLF": 3,
+      "RABBIT": 1
     },
     "completed-challenges": [
       "ZOMBIE-1-selling",
@@ -268,21 +323,26 @@
       "SKELETON": 3
     }
   },
+  "901c84fa-7932-4fc9-a674-5ee7b3630820": {
+    "level": "grass",
+    "xp": 0
+  },
   "9b8fafa8-85c5-4a48-879b-28ea4f1b69bc": {
-    "level": "dirt",
-    "xp": 740,
+    "level": "stone",
+    "xp": 870,
     "hunting": {
+      "DROWNED": 3,
       "ENDERMAN": 1,
-      "total": 74,
+      "total": 87,
       "CREEPER": 2,
-      "ZOMBIE": 56,
+      "ZOMBIE": 62,
       "SALMON": 1,
       "CHICKEN": 1,
       "BLAZE": 1,
-      "COW": 1,
-      "PIGLIN": 1,
-      "SPIDER": 2,
-      "SKELETON": 6
+      "COW": 2,
+      "PIGLIN": 2,
+      "SPIDER": 3,
+      "SKELETON": 7
     }
   },
   "73799260-5d78-4867-a9c0-8202df2fc49d": {
@@ -310,7 +370,11 @@
   },
   "790eb4a0-394c-4ea6-8a0b-c1e9952a5c9d": {
     "level": "grass",
-    "xp": 0
+    "xp": 10,
+    "hunting": {
+      "total": 1,
+      "CHICKEN": 1
+    }
   },
   "6788c282-9111-4963-b9a9-491fb5b5ac30": {
     "level": "grass",
@@ -321,9 +385,26 @@
       "SALMON": 1
     }
   },
+  "d52fa7d2-0afc-4cc7-b405-666cdad8e8e7": {
+    "level": "grass",
+    "xp": 20,
+    "hunting": {
+      "total": 2,
+      "RABBIT": 1,
+      "COW": 1
+    }
+  },
   "5be77279-8afc-486a-b4b2-8063ded72d6a": {
     "level": "grass",
     "xp": 0
+  },
+  "4f83c1a3-13ed-47f3-97ce-104cc235d3aa": {
+    "level": "grass",
+    "xp": 10,
+    "hunting": {
+      "total": 1,
+      "SHEEP": 1
+    }
   },
   "server-total": {
     "sellhead": {
@@ -349,57 +430,60 @@
       "WOLF": 2
     },
     "hunting": {
-      "MAGMA_CUBE": 55,
-      "SILVERFISH": 2,
-      "HOGLIN": 8,
-      "HUSK": 6,
-      "SHEEP": 12,
-      "VEX": 1,
-      "VINDICATOR": 5,
-      "PILLAGER": 80,
-      "TURTLE": 2,
-      "TRADER_LLAMA": 1,
-      "SLIME": 13,
-      "CAVE_SPIDER": 1,
-      "DROWNED": 28,
-      "SQUID": 9,
-      "EVOKER": 2,
-      "HORSE": 1,
-      "FOX": 1,
-      "PLAYER": 56,
+      "MAGMA_CUBE": 99,
+      "SILVERFISH": 3,
+      "HOGLIN": 16,
+      "HUSK": 11,
+      "SHEEP": 30,
+      "VEX": 2,
+      "VINDICATOR": 1959,
+      "PILLAGER": 3223,
+      "VILLAGER": 2,
+      "PIGLIN_BRUTE": 1,
+      "TURTLE": 7,
+      "TRADER_LLAMA": 7,
+      "SLIME": 44,
+      "CAVE_SPIDER": 6,
+      "DROWNED": 44,
+      "SQUID": 15,
+      "EVOKER": 255,
+      "HORSE": 4,
+      "FOX": 2,
+      "PLAYER": 65,
       "STRAY": 2,
-      "ZOMBIE": 367,
-      "SALMON": 3,
-      "CAT": 3,
-      "RABBIT": 4,
+      "ZOMBIE": 717,
+      "SALMON": 5,
+      "CAT": 6,
+      "RABBIT": 6,
       "OCELOT": 1,
-      "ENDERMAN": 15,
-      "ZOMBIE_VILLAGER": 10,
-      "LLAMA": 1,
-      "WITCH": 5,
-      "SPIDER": 82,
-      "SKELETON": 173,
-      "WITHER_SKELETON": 6,
-      "total": 1786,
-      "CREEPER": 43,
-      "MUSHROOM_COW": 3,
-      "CHICKEN": 68,
-      "ZOMBIFIED_PIGLIN": 583,
+      "ENDERMAN": 176,
+      "ZOMBIE_VILLAGER": 13,
+      "LLAMA": 2,
+      "WITCH": 803,
+      "SPIDER": 174,
+      "SKELETON": 349,
+      "WITHER_SKELETON": 20,
+      "total": 9624,
+      "CREEPER": 127,
+      "MUSHROOM_COW": 5,
+      "CHICKEN": 123,
+      "ZOMBIFIED_PIGLIN": 793,
       "COD": 1,
       "RAVAGER": 1,
+      "SHULKER": 12,
       "GUARDIAN": 1,
-      "BEE": 1,
-      "PHANTOM": 16,
+      "BEE": 3,
+      "PHANTOM": 22,
       "SKELETON_HORSE": 3,
-      "BLAZE": 10,
-      "PIGLIN": 26,
-      "COW": 23,
-      "GHAST": 12,
+      "BLAZE": 145,
+      "PIGLIN": 43,
+      "COW": 48,
+      "GHAST": 18,
       "WANDERING_TRADER": 3,
-      "PIG": 23,
-      "DOLPHIN": 1,
-      "BAT": 1,
-      "WOLF": 4
+      "PIG": 41,
+      "DOLPHIN": 2,
+      "BAT": 2,
+      "WOLF": 9
     }
   },
   "c0ef0828-48b9-4338-9d75-a8a0b125fa86": {
@@ -410,9 +494,13 @@
       "total": 7
     }
   },
+  "0594e18c-76e5-4b5c-8099-60a7b5164550": {
+    "level": "grass",
+    "xp": 0
+  },
   "10f92672-847c-423c-8f7f-fb0707d4b671": {
-    "level": "dirt",
-    "xp": 610,
+    "level": "stone",
+    "xp": 780,
     "sellhead": {
       "total": 14,
       "MAGMA_CUBE": 3,
@@ -422,19 +510,26 @@
       "SKELETON": 2
     },
     "hunting": {
-      "total": 47,
-      "MAGMA_CUBE": 5,
+      "DROWNED": 1,
+      "MAGMA_CUBE": 10,
       "ZOMBIE_VILLAGER": 1,
-      "CREEPER": 1,
       "HOGLIN": 3,
-      "ZOMBIE": 10,
-      "COW": 1,
-      "PIGLIN": 4,
+      "BLAZE": 4,
+      "COW": 4,
+      "PIGLIN": 6,
       "GHAST": 1,
-      "CAVE_SPIDER": 1,
       "SPIDER": 3,
-      "SKELETON": 17
+      "SKELETON": 18,
+      "WITHER_SKELETON": 1,
+      "total": 64,
+      "CREEPER": 1,
+      "ZOMBIE": 10,
+      "CAVE_SPIDER": 1
     }
+  },
+  "4ab5cd07-9ab9-44f7-85ac-23142e7d6cb0": {
+    "level": "grass",
+    "xp": 0
   },
   "a167e640-a6b0-44ae-9586-d7248e44b3fe": {
     "level": "dirt",
@@ -457,12 +552,13 @@
   },
   "7e3e2f9d-bd0c-4758-a508-2769fb7e9ce8": {
     "level": "grass",
-    "xp": 70,
+    "xp": 100,
     "hunting": {
       "ENDERMAN": 1,
-      "total": 7,
+      "total": 10,
       "CREEPER": 2,
-      "ZOMBIE": 2,
+      "ZOMBIE": 3,
+      "HUSK": 2,
       "SHEEP": 1,
       "SKELETON": 1
     }
@@ -511,23 +607,32 @@
     }
   },
   "3cb018d0-aa67-4171-98c4-46c87157d1bc": {
-    "level": "dirt",
-    "xp": 710,
+    "level": "stone",
+    "xp": 1480,
     "hunting": {
+      "DROWNED": 2,
       "MAGMA_CUBE": 1,
       "PHANTOM": 2,
+      "SHEEP": 4,
+      "COW": 2,
+      "WITCH": 1,
       "WANDERING_TRADER": 1,
-      "SPIDER": 3,
-      "SKELETON": 9,
+      "SPIDER": 11,
+      "SKELETON": 17,
+      "PIG": 3,
       "PLAYER": 10,
-      "total": 71,
-      "CREEPER": 1,
-      "ZOMBIE": 24,
-      "CHICKEN": 11,
-      "ZOMBIFIED_PIGLIN": 6,
+      "total": 148,
+      "CREEPER": 10,
+      "ZOMBIE": 60,
+      "CHICKEN": 13,
+      "ZOMBIFIED_PIGLIN": 8,
       "WOLF": 1,
       "RABBIT": 2
     }
+  },
+  "574a27cc-9bc3-4a72-9b66-c1b9c4190ecf": {
+    "level": "grass",
+    "xp": 0
   },
   "17ecb863-e60c-4032-9d86-7448b60445ba": {
     "level": "grass",
@@ -550,6 +655,17 @@
     "level": "grass",
     "xp": 0
   },
+  "8a9308f5-6728-4505-b1c8-26904c2a2a35": {
+    "level": "grass",
+    "xp": 50,
+    "hunting": {
+      "total": 5,
+      "CREEPER": 1,
+      "ZOMBIE": 2,
+      "COW": 1,
+      "SKELETON": 1
+    }
+  },
   "78557c7f-70b6-4b38-b92f-86339a09cd28": {
     "level": "grass",
     "xp": 40,
@@ -557,6 +673,38 @@
       "total": 4,
       "CREEPER": 1,
       "ZOMBIE": 3
+    }
+  },
+  "b4165b5a-9032-4212-8c44-73460279605b": {
+    "level": "stone",
+    "xp": 790,
+    "hunting": {
+      "ENDERMAN": 1,
+      "ZOMBIE_VILLAGER": 1,
+      "LLAMA": 1,
+      "SHEEP": 6,
+      "SPIDER": 7,
+      "SKELETON": 16,
+      "VILLAGER": 1,
+      "total": 79,
+      "CREEPER": 1,
+      "MUSHROOM_COW": 2,
+      "CHICKEN": 1,
+      "TURTLE": 1,
+      "ZOMBIFIED_PIGLIN": 2,
+      "TRADER_LLAMA": 1,
+      "DROWNED": 2,
+      "BEE": 1,
+      "SQUID": 1,
+      "HORSE": 3,
+      "COW": 4,
+      "FOX": 1,
+      "PIG": 1,
+      "PLAYER": 1,
+      "DOLPHIN": 1,
+      "ZOMBIE": 21,
+      "SALMON": 1,
+      "CAT": 1
     }
   },
   "f01e9f13-ac71-4b0c-9bb4-eade865d9f15": {
@@ -569,27 +717,42 @@
     }
   },
   "966918aa-90d9-4c49-836f-f30c951fe642": {
-    "level": "stone",
-    "xp": 1350,
+    "level": "coal_2",
+    "xp": 2040,
     "hunting": {
       "DROWNED": 2,
       "ENDERMAN": 4,
-      "MAGMA_CUBE": 1,
+      "MAGMA_CUBE": 2,
       "ZOMBIE_VILLAGER": 1,
-      "BLAZE": 1,
-      "SPIDER": 15,
-      "SKELETON": 22,
+      "BLAZE": 5,
+      "GHAST": 1,
+      "SPIDER": 19,
+      "SKELETON": 31,
       "PLAYER": 6,
-      "total": 135,
-      "CREEPER": 6,
-      "ZOMBIE": 38,
-      "ZOMBIFIED_PIGLIN": 32,
-      "SLIME": 6
+      "total": 204,
+      "CREEPER": 15,
+      "ZOMBIE": 64,
+      "CHICKEN": 1,
+      "ZOMBIFIED_PIGLIN": 38,
+      "SLIME": 11,
+      "CAVE_SPIDER": 3
     }
   },
   "456c20d6-26d5-4709-80b5-40bf9307bf4c": {
     "level": "grass",
     "xp": 0
+  },
+  "2aca3e4a-61bf-427b-acb4-4b4060035350": {
+    "level": "grass",
+    "xp": 60,
+    "hunting": {
+      "total": 6,
+      "CHICKEN": 1,
+      "SHEEP": 1,
+      "COW": 2,
+      "SPIDER": 1,
+      "SKELETON": 1
+    }
   },
   "4568ab52-123d-40f9-9280-fcfc2e97f27b": {
     "level": "grass",
@@ -601,14 +764,38 @@
       "SKELETON": 2
     }
   },
+  "a816e419-8524-46de-8589-06b584bca6a4": {
+    "level": "grass",
+    "xp": 0
+  },
   "4f825657-23f5-4002-bbe6-c78a56a2c7e1": {
     "level": "grass",
-    "xp": 70,
+    "xp": 140,
     "hunting": {
-      "total": 7,
+      "total": 14,
       "SHEEP": 1,
-      "ZOMBIFIED_PIGLIN": 6
+      "ZOMBIFIED_PIGLIN": 13
     }
+  },
+  "16f0ff8f-b8d4-422d-9ae1-1899f53e349d": {
+    "level": "stone",
+    "xp": 820,
+    "hunting": {
+      "PLAYER": 1,
+      "ENDERMAN": 18,
+      "total": 82,
+      "BEE": 1,
+      "CREEPER": 1,
+      "CHICKEN": 4,
+      "ZOMBIE": 49,
+      "PIGLIN": 2,
+      "SPIDER": 1,
+      "SKELETON": 2
+    }
+  },
+  "c611224c-789f-4529-bd51-f30401a1fec4": {
+    "level": "grass",
+    "xp": 0
   },
   "c2c361ca-05bc-4a08-b4ee-7e337dbecde2": {
     "level": "dirt",
@@ -644,11 +831,11 @@
   },
   "83dd3373-5e10-4ceb-afb2-8e3300b7d2ca": {
     "level": "grass",
-    "xp": 70,
+    "xp": 90,
     "hunting": {
-      "total": 7,
+      "total": 9,
       "ZOMBIE_VILLAGER": 1,
-      "SHEEP": 3,
+      "SHEEP": 5,
       "COW": 1,
       "SPIDER": 1,
       "PIG": 1
@@ -658,17 +845,71 @@
     "level": "grass",
     "xp": 0
   },
+  "f6969bf4-5e36-4e07-b7dd-d084adf453fb": {
+    "level": "grass",
+    "xp": 0
+  },
   "f5f2c49b-165b-4c3b-8b22-1a3839e1978e": {
     "level": "grass",
     "xp": 0
   },
   "aa7d21c0-01c1-42d4-8eb7-d7a82e563917": {
-    "level": "grass",
-    "xp": 30,
+    "level": "dirt",
+    "xp": 650,
     "hunting": {
-      "total": 3,
-      "ZOMBIE": 2,
-      "SKELETON": 1
+      "total": 65,
+      "SILVERFISH": 1,
+      "CREEPER": 7,
+      "ZOMBIE": 30,
+      "TRADER_LLAMA": 3,
+      "COW": 1,
+      "WOLF": 1,
+      "SPIDER": 7,
+      "SKELETON": 15
+    }
+  },
+  "5d3e5b86-1ac4-48be-8758-993318371d33": {
+    "level": "grass",
+    "xp": 20,
+    "hunting": {
+      "PLAYER": 1,
+      "total": 2,
+      "CHICKEN": 1
+    }
+  },
+  "338ec988-e3c2-44e7-9438-bc6bf0e36a39": {
+    "level": "grass",
+    "xp": 10,
+    "hunting": {
+      "total": 1,
+      "ZOMBIE": 1
+    }
+  },
+  "8c8e1bf3-f32e-430c-bb5f-95cac05127dd": {
+    "level": "iron",
+    "xp": 3300,
+    "hunting": {
+      "DROWNED": 3,
+      "ENDERMAN": 85,
+      "MAGMA_CUBE": 3,
+      "SQUID": 4,
+      "PHANTOM": 2,
+      "BLAZE": 98,
+      "COW": 1,
+      "PIGLIN": 1,
+      "WITCH": 1,
+      "GHAST": 2,
+      "SPIDER": 6,
+      "SKELETON": 10,
+      "PIG": 1,
+      "VILLAGER": 1,
+      "total": 329,
+      "CREEPER": 6,
+      "BAT": 1,
+      "ZOMBIE": 23,
+      "ZOMBIFIED_PIGLIN": 59,
+      "SLIME": 15,
+      "SHULKER": 2
     }
   },
   "45f668f4-d2db-42bc-934b-d4517fdefae0": {
@@ -677,7 +918,7 @@
   },
   "a48502aa-5bfa-46ef-a534-2fa68ef773c4": {
     "level": "dirt",
-    "xp": 470,
+    "xp": 670,
     "sellhead": {
       "total": 28,
       "MAGMA_CUBE": 2,
@@ -691,16 +932,20 @@
     },
     "hunting": {
       "ENDERMAN": 1,
-      "total": 26,
+      "total": 46,
       "MAGMA_CUBE": 2,
       "PHANTOM": 1,
       "ZOMBIE": 8,
       "SHEEP": 1,
-      "ZOMBIFIED_PIGLIN": 2,
+      "ZOMBIFIED_PIGLIN": 22,
       "SPIDER": 2,
       "SKELETON": 8,
       "PIG": 1
     }
+  },
+  "21d8a3bb-6d66-4ab8-8776-ac0d6b7d8f25": {
+    "level": "grass",
+    "xp": 0
   },
   "4ed4290a-161b-4629-9f07-826d5c4ced20": {
     "level": "grass",
@@ -712,21 +957,24 @@
   },
   "a66c5976-d9d3-4224-9a5b-705e1b210622": {
     "level": "dirt",
-    "xp": 360,
+    "xp": 620,
     "sellhead": {
       "DROWNED": 1,
       "total": 1
     },
     "hunting": {
       "PLAYER": 12,
-      "DROWNED": 2,
-      "total": 35,
+      "DROWNED": 3,
+      "total": 61,
       "MUSHROOM_COW": 2,
-      "ZOMBIE": 2,
-      "CHICKEN": 1,
-      "ZOMBIFIED_PIGLIN": 14,
-      "SPIDER": 1,
-      "SKELETON": 1
+      "CREEPER": 2,
+      "ZOMBIE": 5,
+      "CHICKEN": 2,
+      "ZOMBIFIED_PIGLIN": 17,
+      "SPIDER": 8,
+      "PILLAGER": 1,
+      "SKELETON": 8,
+      "PIG": 1
     }
   },
   "3d125f8f-0907-4a4f-878d-eae3f94e037e": {

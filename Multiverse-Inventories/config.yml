@@ -26,4 +26,5 @@ shares:
   optionals_for_ungrouped_worlds: true
   # You must specify optional shares you wish to use here or they will be ignored.
   # The only built in optional share is "economy"
-  use_optionals: []
+  use_optionals:
+  - last_location

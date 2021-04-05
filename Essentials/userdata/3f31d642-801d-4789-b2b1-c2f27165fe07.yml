@@ -1,28 +1,28 @@
 lastAccountName: seesta
 timestamps:
-  login: 1612804337685
-  logout: 1612805528225
+  login: 1617572662206
+  logout: 1617576606958
   jail: 0
 ipAddress: 10.1.76.1
 logoutlocation:
-  world: world
-  x: 4778.7196573118335
-  y: 63.0
-  z: 4905.218535380803
-  yaw: -40.20018
-  pitch: 9.749999
+  world: egg-world
+  x: 1664.4856637577523
+  y: 67.0
+  z: 184.28456140723432
+  yaw: 314.11026
+  pitch: 3.149815
 lastlocation:
-  world: world
-  x: 4799.699999988079
-  y: 58.0
-  z: 4795.2601939321585
-  yaw: -269.39926
-  pitch: 10.049848
+  world: creative-world
+  x: -288.69999998807907
+  y: 65.34032035172214
+  z: -24.661202306199453
+  yaw: -59.17871
+  pitch: 20.850588
 jailed: false
 mail:
 - §6[§rmarsboy18§6] §rsorry for that, will fix tommoro!
 - §6[§rKing_Coding§6] §rpaulweird
 - §6[§rKing_Coding§6] §rpaulweird
 afk: false
-nickname: Paul
+nickname: CryptoTrader
 money: '460.0'

@@ -1,0 +1,1384 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+data-version: 2|2584
+'1':
+  uniqueId: 2f9227d9-bd7f-4a68-8a76-39b102a96a0c
+  name: ''
+  world: world
+  x: -233242
+  y: 70
+  z: 236135
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  owner uuid: 3cb018d0-aa67-4171-98c4-46c87157d1bc
+  owner: pyxld_kris
+  chestx: -233242
+  chesty: 70
+  chestz: 236134
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_PICKAXE
+      price: 1
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 98
+      price: 2
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 4
+            DURABILITY: 3
+          Damage: 307
+      price: 3
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_invisibility
+      price: 5
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_INGOT
+        amount: 2
+      price: 8
+'2':
+  uniqueId: bf4428d5-1006-4481-b55d-f7eb49754ad9
+  name: Iron Shop
+  world: world
+  x: 4828
+  y: 63
+  z: 4872
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: TOOLSMITH
+    villagerType: SNOW
+    villagerLevel: 2
+  owner uuid: adf999ab-1d71-4017-b648-5e281b63f1e2
+  owner: alearm
+  chestx: 4827
+  chesty: 63
+  chestz: 4872
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_INGOT
+        amount: 64
+      price: 9
+'3':
+  uniqueId: 067339eb-899e-494d-a057-9767d10f210a
+  name: Bakery Shop
+  world: world
+  x: 4746
+  y: 63
+  z: 4862
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: BUTCHER
+    villagerType: PLAINS
+    villagerLevel: 3
+  owner uuid: adf999ab-1d71-4017-b648-5e281b63f1e2
+  owner: alearm
+  chestx: 4747
+  chesty: 63
+  chestz: 4860
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: COOKIE
+        amount: 64
+      price: 1
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CAKE
+      price: 1
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: MELON_SLICE
+        amount: 64
+      price: 1
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PUMPKIN_PIE
+      price: 1
+'4':
+  uniqueId: 204efbc1-8c74-47c9-8634-4d95d5666ec0
+  name: Jeffery
+  world: world
+  x: 4746
+  y: 63
+  z: 4852
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  owner uuid: 8c8e1bf3-f32e-430c-bb5f-95cac05127dd
+  owner: Luizzzzz
+  chestx: 4746
+  chesty: 63
+  chestz: 4853
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FROST_WALKER: 2
+      price: 9
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+      price: 9
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SILK_TOUCH: 1
+      price: 9
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_INFINITE: 1
+      price: 9
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FIRE_ASPECT: 2
+      price: 9
+    '6':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_MOBS: 3
+      price: 9
+    '7':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_FIRE: 1
+      price: 9
+    '8':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_FALL: 4
+      price: 9
+    '9':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 5
+      price: 9
+    '10':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DURABILITY: 3
+      price: 9
+    '11':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MULTISHOT: 1
+      price: 9
+    '12':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            CHANNELING: 1
+      price: 9
+'5':
+  uniqueId: c72b6766-28d0-468c-9b67-b910e03bdbee
+  name: Carlos JR
+  world: world
+  x: 4746
+  y: 63
+  z: 4850
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 1
+  owner uuid: 8c8e1bf3-f32e-430c-bb5f-95cac05127dd
+  owner: Luizzzzz
+  chestx: 4747
+  chesty: 63
+  chestz: 4850
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          power: 1
+      price: 9
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLAZE_ROD
+        amount: 64
+      price: 9
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: VILLAGER_SPAWN_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Shopkeeper"}],"text":""}'
+      price: 9
+'6':
+  uniqueId: 3246111a-d539-44eb-8847-c1ae318a5d93
+  name: Anselme
+  world: world
+  x: 4795
+  y: 63
+  z: 4851
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: TOOLSMITH
+    villagerType: TAIGA
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4795
+  chesty: 62
+  chestz: 4851
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 1
+      price: 10
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CHAINMAIL_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          repair-cost: 1
+      price: 5
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_HELMET
+      price: 1
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+      price: 10
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CHAINMAIL_CHESTPLATE
+      price: 5
+    '6':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_LEGGINGS
+      price: 1
+    '7':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      price: 10
+    '8':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_EXPLOSIONS: 2
+            DURABILITY: 2
+      price: 10
+    '9':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CHAINMAIL_LEGGINGS
+      price: 5
+    '10':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_CHESTPLATE
+      price: 1
+    '11':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_PROJECTILE: 3
+      price: 10
+    '12':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CHAINMAIL_BOOTS
+      price: 5
+    '13':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_BOOTS
+      price: 1
+'7':
+  uniqueId: 8c913d66-12cf-4a56-8f4b-335739300e9e
+  name: Brandr
+  world: world
+  x: 4797
+  y: 63
+  z: 4851
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: LEATHERWORKER
+    villagerType: SWAMP
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4797
+  chesty: 62
+  chestz: 4851
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: TURTLE_HELMET
+      price: 20
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: SHIELD
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: SADDLE
+      price: 1
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: NAME_TAG
+      price: 1
+'8':
+  uniqueId: 9992d6f3-5504-4b24-91a2-e856c1850eff
+  name: Elber
+  world: world
+  x: 4795
+  y: 63
+  z: 4856
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: FLETCHER
+    villagerType: SAVANNA
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4795
+  chesty: 62
+  chestz: 4856
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 2
+            DURABILITY: 2
+      price: 10
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:fire_resistance
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ARROW
+        amount: 64
+      price: 10
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            PIERCING: 1
+          charged: false
+      price: 10
+'9':
+  uniqueId: caa6dd75-1def-4e43-b1bb-cad321642150
+  name: Tolga
+  world: world
+  x: 4797
+  y: 63
+  z: 4856
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: MASON
+    villagerType: DESERT
+    villagerLevel: 1
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4797
+  chesty: 62
+  chestz: 4856
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            FIRE_ASPECT: 1
+            DAMAGE_ALL: 2
+      price: 5
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 1
+            DAMAGE_UNDEAD: 2
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            FIRE_ASPECT: 1
+            DAMAGE_ALL: 1
+      price: 10
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+      price: 10
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      price: 10
+'10':
+  uniqueId: e5686929-c403-43c5-a13f-a0c082521f04
+  name: Bob
+  world: world
+  x: 4799
+  y: 63
+  z: 4853
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: FARMER
+    villagerType: SNOW
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4799
+  chesty: 62
+  chestz: 4854
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+      price: 10
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      price: 5
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            MENDING: 1
+            SILK_TOUCH: 1
+          repair-cost: 3
+      price: 5
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DIAMOND_SHOVEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+      price: 10
+'11':
+  uniqueId: 8e20f4ae-29b3-4184-8c96-4fde8494b383
+  name: Armond
+  world: world
+  x: 4777
+  y: 63
+  z: 4871
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: SHEPHERD
+    villagerType: TAIGA
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4777
+  chesty: 62
+  chestz: 4870
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: GRAY_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: GREEN
+            pattern: cbo
+          - ==: Pattern
+            color: GRAY
+            pattern: rs
+          - ==: Pattern
+            color: RED
+            pattern: flo
+          - ==: Pattern
+            color: GREEN
+            pattern: ms
+          - ==: Pattern
+            color: GRAY
+            pattern: tt
+          - ==: Pattern
+            color: GREEN
+            pattern: moj
+      price: 10
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: WHITE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: RED
+            pattern: ss
+          - ==: Pattern
+            color: BLUE
+            pattern: tr
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLACK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: WHITE
+            pattern: sku
+      price: 10
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: WHITE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: RED
+            pattern: gru
+          - ==: Pattern
+            color: YELLOW
+            pattern: gra
+          - ==: Pattern
+            color: BLACK
+            pattern: bts
+          - ==: Pattern
+            color: BLACK
+            pattern: tts
+          - ==: Pattern
+            color: BLACK
+            pattern: sku
+      price: 10
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLACK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: GRAY
+            pattern: gra
+          - ==: Pattern
+            color: WHITE
+            pattern: sku
+      price: 10
+    '6':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLACK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: RED
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: cs
+          - ==: Pattern
+            color: RED
+            pattern: bs
+          - ==: Pattern
+            color: BLACK
+            pattern: cbo
+          - ==: Pattern
+            color: BLACK
+            pattern: sku
+          - ==: Pattern
+            color: BLACK
+            pattern: ts
+      price: 10
+    '7':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: WHITE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: sku
+          - ==: Pattern
+            color: BLACK
+            pattern: cbo
+          - ==: Pattern
+            color: BLACK
+            pattern: tt
+          - ==: Pattern
+            color: BLACK
+            pattern: gra
+          - ==: Pattern
+            color: BLACK
+            pattern: gru
+      price: 10
+    '8':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PINK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: WHITE
+            pattern: flo
+          - ==: Pattern
+            color: PINK
+            pattern: hh
+          - ==: Pattern
+            color: PINK
+            pattern: sc
+          - ==: Pattern
+            color: RED
+            pattern: mc
+          - ==: Pattern
+            color: PINK
+            pattern: tt
+          - ==: Pattern
+            color: YELLOW
+            pattern: gra
+      price: 10
+    '9':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: YELLOW_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: tt
+          - ==: Pattern
+            color: YELLOW
+            pattern: ms
+          - ==: Pattern
+            color: BLACK
+            pattern: hhb
+          - ==: Pattern
+            color: YELLOW
+            pattern: bt
+          - ==: Pattern
+            color: YELLOW
+            pattern: mc
+          - ==: Pattern
+            color: BLACK
+            pattern: mc
+      price: 10
+    '10':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: WHITE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: YELLOW
+            pattern: vh
+          - ==: Pattern
+            color: LIME
+            pattern: vhr
+          - ==: Pattern
+            color: ORANGE
+            pattern: ls
+          - ==: Pattern
+            color: BLUE
+            pattern: rs
+          - ==: Pattern
+            color: RED
+            pattern: bo
+      price: 10
+    '11':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLUE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: GREEN
+            pattern: cs
+          - ==: Pattern
+            color: GREEN
+            pattern: bts
+          - ==: Pattern
+            color: BLUE
+            pattern: ss
+          - ==: Pattern
+            color: BROWN
+            pattern: mc
+          - ==: Pattern
+            color: BLUE
+            pattern: ts
+          - ==: Pattern
+            color: YELLOW
+            pattern: flo
+      price: 10
+    '12':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLUE_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: PINK
+            pattern: gra
+          - ==: Pattern
+            color: WHITE
+            pattern: bri
+          - ==: Pattern
+            color: WHITE
+            pattern: cbo
+          - ==: Pattern
+            color: WHITE
+            pattern: mc
+      price: 10
+    '13':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PINK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: WHITE
+            pattern: flo
+          - ==: Pattern
+            color: PINK
+            pattern: hh
+          - ==: Pattern
+            color: PINK
+            pattern: sc
+          - ==: Pattern
+            color: RED
+            pattern: mc
+          - ==: Pattern
+            color: PINK
+            pattern: tt
+          - ==: Pattern
+            color: WHITE
+            pattern: gra
+      price: 10
+    '14':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLACK_BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: GREEN
+            pattern: ss
+          - ==: Pattern
+            color: BLACK
+            pattern: cs
+          - ==: Pattern
+            color: GREEN
+            pattern: bri
+          - ==: Pattern
+            color: BLACK
+            pattern: bri
+          - ==: Pattern
+            color: BLACK
+            pattern: bo
+      price: 10
+    '15':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PAINTING
+      price: 5
+'12':
+  uniqueId: c4517b34-9d0c-4800-98f7-e5e3674efe3f
+  name: Oskar
+  world: world
+  x: 4780
+  y: 63
+  z: 4873
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: CARTOGRAPHER
+    villagerType: DESERT
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4780
+  chesty: 62
+  chestz: 4873
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: FLINT_AND_STEEL
+      price: 5
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: OBSIDIAN
+        amount: 10
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: STONE_BRICKS
+        amount: 4
+      price: 5
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: STONE_BRICK_STAIRS
+        amount: 4
+      price: 5
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLAZE_ROD
+      price: 1
+'13':
+  uniqueId: eeed5897-5f90-42e0-a543-bf6ed6fdd43d
+  name: Dave
+  world: world
+  x: 4779
+  y: 63
+  z: 4868
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 5
+  owner uuid: 501b2efd-d699-422e-8f22-a514ba4e6925
+  owner: LoveCakess
+  chestx: 4779
+  chesty: 62
+  chestz: 4868
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLACK_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: LIGHT_GRAY_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: WHITE_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: GRAY_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '5':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: RED_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '6':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BROWN_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '7':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PURPLE_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '8':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: BLUE_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '9':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: MAGENTA_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '10':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: LIME_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '11':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: LIGHT_BLUE_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '12':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: CYAN_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '13':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: GREEN_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '14':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PINK_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '15':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: YELLOW_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '16':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: ORANGE_GLAZED_TERRACOTTA
+        amount: 20
+      price: 10
+    '17':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: TURTLE_EGG
+        amount: 2
+      price: 10
+    '18':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: VILLAGER_SPAWN_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Shopkeeper"}],"text":""}'
+      price: 30
+    '19':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: EXPERIENCE_BOTTLE
+      price: 1
+    '20':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: NETHER_WART
+        amount: 10
+      price: 1
+'14':
+  uniqueId: ec976004-b6cd-4577-8f68-e2cba523082d
+  name: Prismarines
+  world: world
+  x: 4808
+  y: 63
+  z: 4840
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: FISHERMAN
+    villagerType: SNOW
+    villagerLevel: 1
+  owner uuid: 1ca85d27-5d88-411a-a99e-7ac166bb77e5
+  owner: GuillermoS_
+  chestx: 4805
+  chesty: 61
+  chestz: 4845
+  offers:
+    '1':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PRISMARINE_BRICKS
+        amount: 32
+      price: 5
+    '2':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: PRISMARINE
+        amount: 32
+      price: 3
+    '3':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: SEA_LANTERN
+        amount: 32
+      price: 6
+    '4':
+      item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2584
+        type: DARK_PRISMARINE
+        amount: 32
+      price: 6
+'15':
+  uniqueId: f797daec-53ff-4e63-a582-cf91a3a9e2ff
+  name: ''
+  world: world
+  x: 4631
+  y: 67
+  z: 4812
+  type: sell
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 2
+  owner uuid: 16f0ff8f-b8d4-422d-9ae1-1899f53e349d
+  owner: Reapentance
+  chestx: 4631
+  chesty: 67
+  chestz: 4811
+  offers: {}
+'16':
+  uniqueId: 8e564a7f-b9bf-4b42-a726-d80d8391f8ee
+  name: ''
+  world: egg-world
+  x: -953
+  y: 72
+  z: -860
+  type: book
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  owner uuid: b4165b5a-9032-4212-8c44-73460279605b
+  owner: AnniBunani
+  chestx: -952
+  chesty: 72
+  chestz: -860
+  offers: {}

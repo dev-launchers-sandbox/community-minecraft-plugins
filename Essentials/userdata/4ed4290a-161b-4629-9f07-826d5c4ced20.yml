@@ -1,15 +1,15 @@
 lastAccountName: saltties
 timestamps:
-  login: 1612066213186
-  logout: 1612066556168
+  login: 1616722822823
+  logout: 1616722848589
 ipAddress: 10.1.76.1
 logoutlocation:
   world: world
-  x: 5037.731000101348
-  y: 70.0
-  z: 5226.586418891674
-  yaw: 121.54242
-  pitch: 35.24973
+  x: 5051.672812649935
+  y: 74.0
+  z: 5231.92608995407
+  yaw: -152.80806
+  pitch: 23.549719
 lastlocation:
   world: world
   x: 5117.990201021466
