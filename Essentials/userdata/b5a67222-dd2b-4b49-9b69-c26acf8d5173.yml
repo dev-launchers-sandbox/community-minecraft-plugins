@@ -1,16 +1,16 @@
 lastAccountName: Dorasaurus
 timestamps:
-  login: 1617061907568
-  logout: 1617061947027
+  login: 1617745368184
+  logout: 1617747165840
   lastteleport: 1613090946581
 ipAddress: 10.1.76.1
 logoutlocation:
   world: world
-  x: 734.6581428784631
-  y: 84.0
-  z: 801.5062202363459
-  yaw: 248.99994
-  pitch: 24.599493
+  x: 734.9402480870646
+  y: 78.0
+  z: 796.2087072345046
+  yaw: 161.69098
+  pitch: 34.348576
 lastlocation:
   world: world_nether
   x: 559.6858567663866

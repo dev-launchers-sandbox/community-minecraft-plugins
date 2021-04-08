@@ -1342,26 +1342,6 @@ data-version: 2|2584
         type: DARK_PRISMARINE
         amount: 32
       price: 6
-'15':
-  uniqueId: f797daec-53ff-4e63-a582-cf91a3a9e2ff
-  name: ''
-  world: world
-  x: 4631
-  y: 67
-  z: 4812
-  type: sell
-  object:
-    type: villager
-    baby: false
-    profession: NONE
-    villagerType: SNOW
-    villagerLevel: 2
-  owner uuid: 16f0ff8f-b8d4-422d-9ae1-1899f53e349d
-  owner: Reapentance
-  chestx: 4631
-  chesty: 67
-  chestz: 4811
-  offers: {}
 '16':
   uniqueId: 8e564a7f-b9bf-4b42-a726-d80d8391f8ee
   name: ''

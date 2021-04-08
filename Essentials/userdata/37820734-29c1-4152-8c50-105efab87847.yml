@@ -1,12 +1,12 @@
 lastAccountName: TripleXTeam
 timestamps:
-  login: 1607909166479
-  logout: 1607911883429
+  login: 1617850958795
+  logout: 1617850965888
 ipAddress: 10.1.76.1
 logoutlocation:
   world: world
-  x: 4965.673617289811
-  y: 63.0
-  z: 4998.574349651461
-  yaw: 5.2498856
-  pitch: 43.65004
+  x: 4892.300000011921
+  y: 66.0
+  z: 3948.300000011921
+  yaw: -23.534136
+  pitch: 32.55
